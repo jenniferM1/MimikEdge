@@ -11,7 +11,7 @@
 @interface EdgeService : NSObject
 
 - (instancetype)init;
-- (void)start;
+- (void)startWithServicePort:(int)port;
 - (void)stop;
 
 @end

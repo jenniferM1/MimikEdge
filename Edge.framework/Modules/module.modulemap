@@ -1,6 +1,0 @@
-framework module Edge {
-  umbrella header "Edge.h"
-
-  export *
-  module * { export * }
-}
