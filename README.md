@@ -11,7 +11,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Installation
 
 Edge is available through [mimik Pods](https://github.com/mimikpods). To install
-it, simply add the following line to your Podfile:
+it, simply add the following lines to your Podfile:
+
+```ruby
+source 'https://github.com/CocoaPods/Specs'
+source 'https://github.com/mimikpods/Specs'
+```
 
 ```ruby
 pod 'Edge'
