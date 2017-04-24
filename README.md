@@ -19,7 +19,7 @@ source 'https://github.com/mimikpods/Specs'
 ```
 
 ```ruby
-pod 'Edge'
+pod 'MimikEdge'
 ```
 
 ## Author
