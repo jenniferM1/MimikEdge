@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MimikEdge'
-  s.version  = '1.1.0'
+  s.version  = '1.2.0'
   s.summary          = 'mimik Edge library'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ mimik Edge empowers developers to discover, connect, and communicate with variou
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mo Afrasiabi' => 'mo.afrasiabi@mimik.com' }
-  s.source           = { :git => 'https://github.com/jenniferM1/MimikEdge.git', :tag => '1.1.0' }
+  s.source           = { :git => 'https://github.com/jenniferM1/MimikEdge.git', :tag => '1.2.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
